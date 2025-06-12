@@ -1,0 +1,13 @@
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/numerical.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/Euler_example.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/approximation_example.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/differentialequation_example.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/gausselimination_example.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/integration_example.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/lagrange_example.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/lumethod_example.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/newtoninterpolation_example.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/nonlinear_example.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/threeintegrations_example.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

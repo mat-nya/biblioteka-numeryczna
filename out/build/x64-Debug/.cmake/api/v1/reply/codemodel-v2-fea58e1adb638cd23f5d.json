@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "biblioteka-numeryczna",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Euler_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Euler_example-Debug-557dc2bb9047d6aa2e29.json",
+					"name" : "Euler_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "approximation_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-approximation_example-Debug-13f0c505e41253b7954d.json",
+					"name" : "approximation_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "differentialequation_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-differentialequation_example-Debug-03f29d19d6e4e06fca84.json",
+					"name" : "differentialequation_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gausselimination_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gausselimination_example-Debug-7c11f0d50d2cda175765.json",
+					"name" : "gausselimination_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "integration_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-integration_example-Debug-9f92c78c9b5f07a9b363.json",
+					"name" : "integration_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lagrange_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lagrange_example-Debug-15bbecb832facd738aa4.json",
+					"name" : "lagrange_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lumethod_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lumethod_example-Debug-f291fe160a7339fce95c.json",
+					"name" : "lumethod_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "newtoninterpolation_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newtoninterpolation_example-Debug-65892996ec9522b8029b.json",
+					"name" : "newtoninterpolation_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nonlinear_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nonlinear_example-Debug-0c4c239ed22d86a0d9c2.json",
+					"name" : "nonlinear_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numerical::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numerical-Debug-6bdf1c9780506ea277d9.json",
+					"name" : "numerical",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "threeintegrations_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-threeintegrations_example-Debug-a8dcc9701fede47b3c14.json",
+					"name" : "threeintegrations_example",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna/out/build/x64-Debug",
+		"source" : "C:/Users/mat nya/source/repos/mat-nya/biblioteka-numeryczna"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
