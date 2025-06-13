@@ -20,3 +20,14 @@ Biblioteka sama w sobie nie jest programem, zawiera szereg funkcji numerycznych 
 <li> rozwiązywanie równań różniczkowych; </li>
 <li> rozwiązywanie równań nieliniowych. </li>
 </ul>
+<h3> Uruchamianie </h3>
+<li> Otwórz Visual Studio 2022; </li>
+<li> Wybierz opcję "<b> Klonuj repozytorium </b>";</li>
+<li> W odpowiednim polu wpisz link z GitHuba; </li>
+<li> Wybierz opcję "<b> Klonuj </b>"; </li>
+<li> Gotowe :) </li>
+
+<h3> Fizyczna biblioteka </h3>
+Naszym zadaniem było zbudowanie biblioteki w C++, natomiast z naszego doświadczenia wiemy, że już jedna, dość spora biblioteka jest wybudowana niedaleko od AGH. Pinezka poniżej:
+https://maps.app.goo.gl/AL8whe5naih1MnVt8
+:)
